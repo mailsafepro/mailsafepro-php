@@ -1,18 +1,22 @@
 {
     "name": "mailsafepro/mailsafepro-php",
     "version": "1.0.0",
-    "description": "API robusta y segura para validación y verificación de correos electrónicos. Soporta verificación individual y en lote, detección de brechas, y autenticación JWT. Cumple con GDPR y dispone de planes de pago flexibles.  **🔗 Enlaces importantes:** - [Estado del sistema](https://mailsafepro.betteruptime.com) - [Documentación completa](https://email-validation-api-jlra.onrender.com/redoc)  **📧 Contacto:** mailsafepro1@gmail.com",
+    "description": "PHP SDK for MailSafePro Email Validation API. Robust and secure email validation and verification with batch processing, breach detection, and JWT authentication. GDPR compliant.",
     "keywords": [
-        "openapitools",
-        "openapi-generator",
-        "openapi",
+        "email",
+        "validation",
+        "verification",
+        "mailsafepro",
+        "email-validator",
+        "smtp",
+        "dns",
+        "breach-detection",
         "php",
         "sdk",
-        "rest",
         "api"
     ],
-    "homepage": "https://openapi-generator.tech",
-    "license": "unlicense",
+    "homepage": "https://github.com/mailsafepro/mailsafepro-php",
+    "license": "MIT",
     "authors": [
         {
             "name": "MailSafePro",
